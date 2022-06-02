@@ -14,6 +14,8 @@
 #include "chapter04/use_new.cpp"
 #include "chapter04/arraynew.cpp"
 #include "chapter04/newstrct.cpp"
+#include "chapter06/input_stream.cpp"
+#include "chapter06/output_stream.cpp"
 
 int main() {
     // chapter02
@@ -32,6 +34,12 @@ int main() {
 //    pointer();
 //    use_new();
 //    array_new();
-    new_struct();
+//    new_struct();
+
+    // chapter05
+
+    // chapter06
+    input_stream();
+//    output_stream();
     return 0;
 }
