@@ -1,0 +1,3 @@
+C:/MySpace/workspace/c-primer/cmake-build-debug/CMakeFiles/chapter.dir
+C:/MySpace/workspace/c-primer/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/MySpace/workspace/c-primer/cmake-build-debug/CMakeFiles/rebuild_cache.dir
