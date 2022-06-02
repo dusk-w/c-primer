@@ -6,7 +6,7 @@
 
 using namespace std;
 
-int main1() {
+void carrot() {
     int carrots;
 
     carrots = 25;
@@ -22,5 +22,4 @@ int main1() {
     cout<<"Here are two more. ";
     carrots += 2;
     cout<<"Now you have "<<carrots <<" carrots."<<endl;
-    return 0;
 }

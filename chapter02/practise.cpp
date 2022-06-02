@@ -65,7 +65,7 @@ void practise6() {
     practise6_1(hours, minutes);
 }
 
-int main() {
+void practise() {
     practise1();
     cout << "------------------------------" << endl;
     practise2(3);
@@ -77,5 +77,4 @@ int main() {
     practise5();
     cout << "------------------------------" << endl;
     practise6();
-    return 0;
 }

@@ -5,7 +5,7 @@
 #include "iostream"
 #include "cmath"
 
-int main3() {
+void sqrt() {
     using namespace std;
 
     double area;
@@ -15,5 +15,4 @@ int main3() {
     side = sqrt(area);
     cout << "That's the equivalent of a square " << side << " feet to the side." << endl;
     cout << "How fascinating" << endl;
-    return 0;
 }

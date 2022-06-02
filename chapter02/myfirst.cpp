@@ -15,7 +15,7 @@
 using namespace std;
 
 
-int main0() {
+void my_first() {
 
 
     cout<< "Come up and C++ me some time";
@@ -24,5 +24,5 @@ int main0() {
 //    std::cout<< "Come up and C++ me some time";
 //    std::cout<<std::endl;
 
-    return 0;   // main函数中如果省略，则默认以return 0结尾
+//    return 0;   // main函数中如果省略，则默认以return 0结尾
 }

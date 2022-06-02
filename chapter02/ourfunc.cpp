@@ -8,7 +8,7 @@ using namespace std;
 
 void simon(int);
 
-int main4() {
+void our_func() {
     simon(3);
     cout << "Pick an integer: ";
     int count;
